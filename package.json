@@ -1,0 +1,37 @@
+{
+  "name": "bootstrap-drawer-nav",
+  "version": "1.0.0",
+  "description": "bootstrap better nav but without jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarUsman/bootstrap-drawer-nav.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "javascript",
+    "no",
+    "jquery",
+    "better",
+    "nav",
+    "bootstrap",
+    "better",
+    "nav",
+    "bootstrap",
+    "drawer",
+    "mobile",
+    "drawer",
+    "bootstrap",
+    "vanilla js",
+    "vanilla javascript"
+  ],
+  "author": "Omar Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarUsman/bootstrap-drawer-nav/issues"
+  },
+  "homepage": "https://github.com/OmarUsman/bootstrap-drawer-nav#readme"
+}
