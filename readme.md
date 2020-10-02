@@ -11,11 +11,6 @@ Download and link the JS and CSS file on your HTML page:
 <script src="drawer-navbar.min"></script>
 ```
 
-You can also use the CDN links (courtesy of ..):
-```html
-COMING SOON
-```
-
 We recommend you use the minified versions for production.
 
 ## Usage
